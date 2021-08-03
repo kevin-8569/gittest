@@ -1,6 +1,6 @@
 <template>
   <div>
-      <p>wgx自己建立一个文件</p>
+      <p>wgx自己建立</p>
   </div>
 </template>
 
